@@ -6,7 +6,7 @@ namespace Teste_do_Léo2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello World! ");
             int my1 = 5 % 2;
             Console.WriteLine(my1);
         }
